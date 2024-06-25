@@ -1,0 +1,25 @@
+li:hover,
+button:hover {
+  box-shadow: 0 0 20px #3abef9;
+  background: #3abef9;
+  color: white;
+  transition: 0.5s;
+}
+
+.text-bg {
+  background-image: url("https://media.giphy.com/media/5FM34bwCph7q4lnuhZ/giphy.gif?cid=ecf05e47984yc30a859s5mghjlra3gr90oe9tj9gbit42kw0&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+  background-clip: text;
+  color: transparent;
+  background-position: end;
+}
+.title-bg {
+  background-image: url("https://media.giphy.com/media/s1iF2QudmlgXIWMQf4/giphy.gif?cid=ecf05e477lfkx1141jv6gpbqk8uwtjclil7dtpklydlo3wmp&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+  background-clip: text;
+  color: transparent;
+  background-position: end;
+}
+
+.cart-hover:hover {
+  box-shadow: 0 0 30px #3abef9;
+  transition: 0.5s;
+}
