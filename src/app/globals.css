@@ -5,3 +5,11 @@
 .profile-shadow {
   box-shadow: 0 0 80px #3abef9;
 }
+
+.footer-bg {
+  background: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQ3dDlrcXlyajlnd3htaHp2OHMzc28xdHh4ODc2anhhYzFrMWl3YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiTniuHdUjpOlNo1q/giphy.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+}
