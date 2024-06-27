@@ -10,7 +10,7 @@ const Footer = () => {
           <div class="grid grid-cols-1 sm:grid-cols-2 lg:flex justify-between gap-8 ">
             {/* Logo */}
             <div className="lg:pt-16">
-              <Logo />
+              <Logo width={200} height={200} />
             </div>
 
             <div class="lg:flex lg:items-center">
