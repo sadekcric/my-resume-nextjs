@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import React from "react";
 import Typed from "typed.js";
 
@@ -24,7 +23,7 @@ const HeaderType = () => {
 
   return (
     <h3 className="text-[#3ABEF9] text-xl lg:text-3xl font-bold">
-      <span className="text-white">And I'm a </span> <span ref={el}></span>
+      <span className="text-white">And I am a </span> <span ref={el}></span>
     </h3>
   );
 };
